@@ -1,4 +1,4 @@
-# ReviveIQ Insights Project
+# ReviveIQ Insights
 
 ## Overview
 
