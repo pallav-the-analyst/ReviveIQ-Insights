@@ -1,4 +1,5 @@
 # ReviveIQ Insights
+This is my ReviveIQ Insights project using Power BI on Marriott Bonvoy
 
 ## Overview
 
