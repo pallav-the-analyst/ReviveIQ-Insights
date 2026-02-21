@@ -104,28 +104,28 @@ The dashboard provides a 360° view of AtliQ Hardware’s business operations ac
 ## 🏠 Home Page
 Central navigation hub with buttons to access each domain view.  
 
-![Home Page](https://github.com/pallav-the-analyst/BI_360/blob/main/images/bi360_page-0001.jpg)
+![Home Page](https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Images/Marriott%20Bonvoy%20Analysis_page-0001.jpg)
 
 ---
 
 ## 📅 Booking Insights
 Analyze booking sources, cancellation trends, and guest patterns to optimize occupancy and marketing focus.  
 
-![Finance View](https://github.com/pallav-the-analyst/BI_360/blob/main/images/bi360_page-0002.jpg)
+![Finance View](https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Images/Marriott%20Bonvoy%20Analysis_page-0002.jpg)
 
 ---
 
 ## 📈 Performance Overview 
 Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.  
 
-![Sales View](https://github.com/pallav-the-analyst/BI_360/blob/main/images/bi360_page-0003.jpg)
+![Sales View](https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Images/Marriott%20Bonvoy%20Analysis_page-0003.jpg)
 
 ---
 
 ## 👔 Executive View 
 High-level business snapshot enabling leadership to monitor performance and make faster strategic decisions.  
 
-![Marketing View](https://github.com/pallav-the-analyst/BI_360/blob/main/images/bi360_page-0004.jpg)
+![Marketing View](https://github.com/pallav-the-analyst/ReviveIQ-Insights/blob/main/Images/Marriott%20Bonvoy%20Analysis_page-0004.jpg)
 
 
 
